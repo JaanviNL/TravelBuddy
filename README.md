@@ -1,2 +1,2 @@
 # TravelBuddy
-Created with CodeSandbox
+This app will give you good recommendations from different cities.
